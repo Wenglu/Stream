@@ -12,51 +12,51 @@ Stream to nowoczesna platforma streamingowa, która pozwala na oglądanie filmó
 Funkcjonalności:
 
 *Autoryzacja i uwierzytelnianie
-Logowanie i rejestracja użytkowników (Firebase Authentication)
-Możliwość logowania przez Google
+* Logowanie i rejestracja użytkowników (Firebase Authentication)
+* Możliwość logowania przez Google
 
 *Przeszukiwanie filmów
-Przeglądanie dostępnych filmów
-Wyszukiwanie filmów według tytułu, gatunku itp.
-Szczegółowe informacje o filmie 
+* Przeglądanie dostępnych filmów
+* Wyszukiwanie filmów według tytułu, gatunku itp.
+* Szczegółowe informacje o filmie 
 
 *Odtwarzanie wideo
-Strumieniowe odtwarzanie filmów
-Możliwość pauzy, przewijania, regulacji głośności, regulacji prędkości
+* Strumieniowe odtwarzanie filmów
+* Możliwość pauzy, przewijania, regulacji głośności, regulacji prędkości
 
 *Biblioteka użytkownika
-Dodawanie filmów do listy „Do obejrzenia” / „Ulubione” 
-Historia oglądanych filmów
+* Dodawanie filmów do listy „Do obejrzenia” / „Ulubione” 
+* Historia oglądanych filmów
 
 *Oceny i komentarze
-Możliwość oceny filmu w skali
-Dodawanie komentarzy i przeglądanie opinii innych użytkowników
+* Możliwość oceny filmu w skali
+* Dodawanie komentarzy i przeglądanie opinii innych użytkowników
 
 *Zarządzanie treścią (dla administratora)
-Dodawanie/usuwanie filmów
-Edycja opisów filmów
+* Dodawanie/usuwanie filmów
+* Edycja opisów filmów
 
 *Zarządzanie użytkownikami (dla administratora)
-Blokowanie użytkowników (czasowo/stale)
-Usuwanie treści niezgodnych
+* Blokowanie użytkowników (czasowo/stale)
+* Usuwanie treści niezgodnych
 
 
 
 Niefunkcjonalności: 
 
 *Wydajność
-Strumieniowanie filmów bez opóźnień (buforowanie minimalne)
-Szybkie wyszukiwanie filmów
+* Strumieniowanie filmów bez opóźnień (buforowanie minimalne)
+* Szybkie wyszukiwanie filmów
 
 *Bezpieczeństwo
-Dane użytkowników przechowywane w Firebase Firestore z odpowiednimi regułami dostępu
+* Dane użytkowników przechowywane w Firebase Firestore z odpowiednimi regułami dostępu
 
 *Skalowalność
-Możliwość obsługi dużej liczby użytkowników jednocześnie
+* Możliwość obsługi dużej liczby użytkowników jednocześnie
 
 *Dostępność
-Responsywny interfejs dla desktop i mobile
+* Responsywny interfejs dla desktop i mobile
 
 *Użyteczność
-Intuicyjny interfejs użytkownika
-Możliwość personalizacji (np. tryb jasny/ciemny)
+* Intuicyjny interfejs użytkownika
+* Możliwość personalizacji (np. tryb jasny/ciemny)
