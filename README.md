@@ -1,6 +1,6 @@
 "Stream" 
 
-Stream to nowoczesna platforma streamingowa, która pozwala na oglądanie filmów i seriali w najwyższej jakości, gdziekolwiek jesteś. Dzięki integracji z Firebase i technologii Angular, zapewniamy szybkie ładowanie, płynny odtwarzacz oraz wygodny dostęp do ulubionych treści na różnych urządzeniach.
+Stream to nowoczesna platforma streamingowa, która pozwala na oglądanie filmów i seriali w najwyższej jakości, gdziekolwiek jesteś. Zapewniamy szybkie ładowanie, płynny odtwarzacz oraz wygodny dostęp do ulubionych treści na różnych urządzeniach.
 
  Kluczowe funkcje:
 * Bogata biblioteka filmów i seriali – wybieraj spośród 'wielu' tytułów!
